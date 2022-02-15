@@ -68,9 +68,9 @@ body.light {
 }
 
 body.dark {
-  --color-background: #051923;
+  --color-background: #ffff;
   --color-primary: #005b99;
-  --color-text: #f9f9f9;
+  --color-text: #0F110C;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
   --color-heading-black: black;
