@@ -1,5 +1,5 @@
 ---
-title: A designer's value within a software project.
+title: A designer's value within a software project
 date: "2022-02-19"
 description: "UI/UX specialists are critical to the success of a project. Lately, I have had the opportunity to see the impact of this kind of expertise on software development."
 ---
