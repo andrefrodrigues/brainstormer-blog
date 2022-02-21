@@ -68,12 +68,12 @@ body.light {
 }
 
 body.dark {
-  --color-background: #ffff;
-  --color-primary: #005b99;
-  --color-text: #0F110C;
+  --color-background: #111827;
+  --color-primary: #075985;
+  --color-text: #E2E8F0;
   --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-heading: #E2E8F0;
+  --color-heading-black: #E2E8F0;
   --color-accent: #d1dce5;
 }
 

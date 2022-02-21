@@ -34,8 +34,8 @@ export function ThemeButton() {
                                 <SunIcon style={iconStyle}/>
                             </span>
                     }
-                        onColor="#18181B"
-                        offColor='#18181B'
+                        onColor="#3F3F46"
+                        offColor='#3F3F46'
                     />
                 </label>
             )}
