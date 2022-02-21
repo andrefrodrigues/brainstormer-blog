@@ -268,6 +268,9 @@ a:focus {
 
 .global-header {
   margin-bottom: var(--spacing-12);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .main-heading {
@@ -333,6 +336,11 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+.theme-button {
+  display: flex;
+  align-items: center;
 }
 
 /* Media queries */
