@@ -3,7 +3,7 @@ module.exports = {
     title: `Brainstormer`,
     author: {
       name: `André Rodrigues`,
-      summary: `A Software Engineer from portugal who enjoys discussing and solving problems.`,
+      summary: `A Software Engineer from Portugal who enjoys discussing and solving problems.`,
     },
     description: `A blog to present ideas and discuss different software engineering problems.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
