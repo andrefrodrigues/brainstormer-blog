@@ -20,25 +20,30 @@ const iconStyle = {
 export function ThemeButton() {
     return (
         <ThemeToggler>
-            {({ theme, toggleTheme }) => (
-                <label className="theme-button">
-                    <Switch onChange={checked => toggleTheme(checked ? 'dark' : 'light')}
-                        checked={theme === 'dark'}
-                        checkedIcon={
-                            <span style={wrapperStyle}>
-                                <MoonIcon style={iconStyle}/>
-                            </span>
-                    }
-                        uncheckedIcon={
-                            <span style={wrapperStyle}>
-                                <SunIcon style={iconStyle}/>
-                            </span>
-                    }
-                        onColor="#3F3F46"
-                        offColor='#3F3F46'
-                    />
-                </label>
-            )}
+            {({ theme, toggleTheme }) => {
+                if(!theme) {
+                    return null;
+                }
+                return (
+                    <label className="theme-button">
+                        <Switch onChange={checked => toggleTheme(checked ? 'dark' : 'light')}
+                            checked={theme === 'dark'}
+                            checkedIcon={
+                                <span style={wrapperStyle}>
+                                    <MoonIcon style={iconStyle}/>
+                                </span>
+                        }
+                            uncheckedIcon={
+                                <span style={wrapperStyle}>
+                                    <SunIcon style={iconStyle}/>
+                                </span>
+                        }
+                            onColor="#3F3F46"
+                            offColor='#3F3F46'
+                        />
+                    </label>
+                ) 
+            }}
         </ThemeToggler>
     );
 }
