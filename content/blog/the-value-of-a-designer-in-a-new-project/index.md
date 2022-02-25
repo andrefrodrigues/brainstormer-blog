@@ -6,9 +6,9 @@ description: "UI/UX specialists are critical to the success of a project. Recent
 
 Last year I started a new job as a full-stack developer being in charge of a new project.
 
-This company is a gaming company, and the software I would build is a dashboard for an internal advertising monetization platform. 
+This company is a gaming company, and the software I would build is a dashboard for an internal advertising platform. 
 
-An ad monetizing person would be able to set up and configure the necessary settings in this dashboard for each game that has this platform configured in it. A very basic dashboard already existed but the ad monetization users (the *main users* or *main stakeholders*) were not satisfied with it, as they wanted a tool that was more similar to the ones at the top of the market.
+A user would be able to set up and configure the necessary settings in this dashboard for each game that has this platform configured in it. A very basic dashboard already existed but the users were not satisfied with it, as they wanted a tool that was more similar to the ones at the top of the market.
 
 As such, I joined the team as the sole developer of this web application.
 
