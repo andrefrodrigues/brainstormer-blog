@@ -1,12 +1,12 @@
 ---
-title: A designer's value in a software project
+title: The value of a designer in a software project
 date: "2022-02-19"
 description: "UI/UX specialists are critical to the success of a project. Recently, I had the opportunity to see the impact of this kind of expertise while being in charge of a software project."
 ---
 
 Last year I started a new job as a full-stack developer being in charge of a new project.
 
-This company is a gaming company, and the software I would build is a dashboard for an internal advertising platform. 
+This company is a gaming company, and the software to build is a dashboard for an internal advertising platform. 
 
 A user would be able to set up and configure the necessary settings in this dashboard for each game that has this platform configured in it. A very basic dashboard already existed but the users were not satisfied with it, as they wanted a tool that was more similar to the ones at the top of the market.
 
