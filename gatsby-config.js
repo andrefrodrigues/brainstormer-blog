@@ -5,7 +5,7 @@ module.exports = {
       name: `André Rodrigues`,
       summary: `A Software Engineer from Portugal who enjoys discussing and solving problems.`,
     },
-    description: `A blog to present ideas and discuss different software engineering problems.`,
+    description: `A personal blog to present ideas and discuss different software engineering problems.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `afdrrodrigues`,
