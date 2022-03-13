@@ -6,7 +6,7 @@ module.exports = {
       summary: `A Software Engineer from Portugal who enjoys discussing and solving problems.`,
     },
     description: `A personal blog to present ideas and discuss different software engineering problems.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://brainstormer-blog.com`,
     social: {
       twitter: `afdrrodrigues`,
     },
