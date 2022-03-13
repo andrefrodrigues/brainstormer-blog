@@ -4,7 +4,7 @@ date: "2022-03-13"
 description: "Go and Typescript are currently my favorite programming languages to work with. What do they have in common? They're both statically typed."
 ---
 
-If you studied computer science in university like me or is still studying you might have heard the terms static typing or dynamic typing somewhere in your classes to distinguish programming language types.
+If you studied computer science in university like me or are still studying you might have heard the terms static typing or dynamic typing somewhere in your classes to distinguish programming language types.
 
 ### What is static typing and dynamic typing?
 
