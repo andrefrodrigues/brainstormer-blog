@@ -84,8 +84,7 @@ So how would we check if the string is empty?
 
 We would have to compare it directly with an empty string with a != operator. The same would apply for null check.
 
-As so we can conclude that in some operations, we can take advantage of type coercion to write some operations in a simpler way! But we need to keep track of the different data types to prevent errors.
-While with static typed languages, even though we might have to write more extensive code, the typecheck will be there to protect from some bugs.
+As so we can conclude that in some operations, we can take advantage of type coercion to write some operations in a simpler way! But we need to keep track of the different data types to prevent errors.While with static typed languages, even though we might have to write more extensive code, the typecheck will be there to protect from some bugs.
 
 ### Why I prefer static typed languages
 There is another situation where static typed languages also help you develop code besides preventing type coercion bugs I would like to talk about.
