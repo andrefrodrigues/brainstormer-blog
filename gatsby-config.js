@@ -6,7 +6,7 @@ module.exports = {
       summary: `A Software Engineer from Portugal who enjoys discussing and solving problems.`,
     },
     description: `A personal blog to present ideas and discuss different software engineering problems.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://brainstormer-blog.com`,
     social: {
       twitter: `afdrrodrigues`,
     },
@@ -47,6 +47,8 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          `gatsby-remark-autolink-headers`,
+          `gatsby-remark-reading-time`
         ],
       },
     },
@@ -96,6 +98,9 @@ module.exports = {
                     html
                     fields {
                       slug
+                      readingTime {
+                        text
+                      }
                     }
                     frontmatter {
                       title

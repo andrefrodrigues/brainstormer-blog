@@ -343,6 +343,10 @@ a:focus {
   align-items: center;
 }
 
+.anchor svg[aria-hidden="true"] {
+  stroke: var(--color-primary);
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
