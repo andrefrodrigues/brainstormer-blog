@@ -1,6 +1,6 @@
 ---
 title: Introduction to GraphQL - Part 2
-date: "2022-06-11"
+date: "2022-07-08"
 description: "The second part of the introduction. Here I will talk about how to modify data in the server and how to organise the data fields we want to query."
 ---
 
